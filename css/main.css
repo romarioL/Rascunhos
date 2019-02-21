@@ -1,0 +1,90 @@
+
+ body {
+ 	background-color: #FAF0E6;
+ }
+.banner {
+	background-image: url(../img/01.jpg);
+	height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+.banner2 {
+	background-image: url(../img/02.jpg);
+	height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+.banner3 {
+	background-image: url(../img/03.jpg);
+	height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+
+.banner-title  {
+	font-weight: bold;
+	font-size: 4em;
+	font-weight: 600;
+	background-color: #484848;
+	color: white;
+	padding: 28px 20px;
+	margin: 5px 30px 35px;
+	
+}
+
+
+.container {
+	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+ .promotion-card {
+ 	font-size: 18px;
+ 	text-align: center;
+ }
+
+
+
+
+
+.contact {
+	display: flex;
+	flex-direction: column;
+}
+
+
+.contact-title {
+	text-align: center;
+}
+
+.contact-text {
+	text-align: justify;
+}
+
+.contact-link {
+	padding: 5px;
+}
